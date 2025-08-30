@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HemantGaming</title>
+<script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-white font-sans">
+
+
+<!-- Banner Section -->
+<header class="relative">
+<img src="https://cdn.discordapp.com/attachments/1397931485746561195/1411341894520148049/Picsart_25-08-21_21-08-59-924.jpg?ex=68b44e11&is=68b2fc91&hm=43df24c6cc9601858dbb1bec9881028223fa551868424ac8fd5f6876e19e5ce4&" alt="Banner" class="w-full h-40 object-cover">
+<div class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center">
+<img src="https://cdn.discordapp.com/attachments/1404160600677810219/1408539143914520728/Picsart_25-08-21_20-48-15-159.jpg?ex=68b3ff0d&is=68b2ad8d&hm=94acdff015a8f64b3ca9315a3c363ac83b859527b438413c9316f88f308193e3&" alt="Logo" class="w-20 h-20 rounded-full border-4 border-white shadow-lg">
+<h1 class="text-3xl md:text-5xl font-bold mt-4">HemantGaming</h1>
+<p class="mt-2 text-lg">Gaming • Minecraft • Fun</p>
+</div>
+</header>
+
+
+<!-- Main Section -->
+<main class="text-center py-10 px-4">
+<h2 class="text-2xl md:text-3xl font-semibold mb-6">Join the Community</h2>
+<div class="flex justify-center gap-6">
+<a href="https://discord.gg/wZK3qxeNmM" target="_blank" class="px-6 py-3 bg-indigo-600 hover:bg-indigo-700 rounded-xl shadow-lg transition">Join Discord</a>
+<a href="https://www.youtube.com/@HemantGamingYTT900" target="_blank" class="px-6 py-3 bg-red-600 hover:bg-red-700 rounded-xl shadow-lg transition">Subscribe on YouTube</a>
+</div>
+</main>
